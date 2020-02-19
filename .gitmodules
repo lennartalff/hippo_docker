@@ -1,0 +1,6 @@
+[submodule "data/catkin_ws/src/muAUV-localization_ros"]
+	path = data/catkin_ws/src/muAUV-localization_ros
+	url = https://github.com/DanielDuecker/muAUV-localization_ros.git
+[submodule "data/catkin_ws/src/multi_uuv"]
+	path = data/catkin_ws/src/multi_uuv
+	url = https://github.com/lennartalff/multi_uuv.git

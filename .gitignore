@@ -1,0 +1,4 @@
+data/catkin_ws/devel/
+data/catkin_ws/build/
+data/catkin_ws/src/CMakeLists.txt
+.idea/
